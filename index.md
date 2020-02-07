@@ -1,6 +1,6 @@
 ## Welcome to the My Hub Page
 
-Feel free to use this as own own web project
+Feel free to use this as own own web project.
 
 You can use the [editor on GitHub](https://github.com/sohi831/sohi831.guthub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
